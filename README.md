@@ -66,6 +66,7 @@
 ![DataHub](https://img.shields.io/badge/DataHub-185FA5?style=flat-square&logoColor=white)
 ![Data Lineage](https://img.shields.io/badge/Data%20Lineage-6c757d?style=flat-square&logoColor=white)
 ![Data Cataloguing](https://img.shields.io/badge/Data%20Cataloguing-8B5CF6?style=flat-square&logoColor=white)
+![DBT](https://img.shields.io/badge/Soda%20Core-0F6E56?style=flat-square&logoColor=white)
 
 ### AI / ML & Analytics
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
